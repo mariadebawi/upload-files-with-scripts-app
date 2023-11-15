@@ -1,0 +1,1 @@
+scripts app is the next level of language JS
